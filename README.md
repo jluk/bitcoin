@@ -7,7 +7,7 @@ https://bitcoincore.org
 
 What is Bitcoin?
 
-[![Run Get All the Bitcoin Script in Cloud Shell](https://shell.azure.com/images/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com)
+[![Run Get All the Bitcoin Script in Cloud Shell](https://shell.azure.com/images/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com/?tid=72f988bf-86f1-41af-91ab-2d7cd011db47)
 
 ----------------
 
