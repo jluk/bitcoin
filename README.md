@@ -6,6 +6,9 @@ Bitcoin Core integration/staging tree
 https://bitcoincore.org
 
 What is Bitcoin?
+
+[![Launch Cloud Shell](https://shell.azure.com/images/launchcloudshell.png "Launch Cloud Shell")](https://shell.azure.com)
+
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
